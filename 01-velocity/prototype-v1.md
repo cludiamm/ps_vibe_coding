@@ -4,20 +4,22 @@
 
 ## Scenario
 
-_Which of the four scenarios (or your own, instructor-approved) did you build?_
+B2B SaaS losing 30% of users in 90 days — surface the churn drivers and test whether an intervention can change the curve (desirability-first problem).
+
+Grounded in FlowCard, a B2B debit card issuing + spend management platform for finance/ops leads at SMBs and fintechs. Betting the driver is day-1 activation drop-off — physical cards take 5–7 days to arrive, so momentum dies before the first swipe. Testing whether an Instant Virtual Card intervention (live card in <2 min, plastic ships in parallel) changes the curve.
 
 _____
 
 ## Launch path
 
-- [ ] Copy & Customize (start from a scenario starter prompt)
+- [x] Copy & Customize (start from a scenario starter prompt)
 - [ ] First Screen Method (build only the very first screen the user sees)
 
 ## The build
 
-- **What I built:** _____
-- **Tool used:** Lovable / v0 / Cursor / Bolt / Replit
-- **Shareable link:** _____
+- **What I built:** A 5-screen flow — (1) welcome / "issue your first card in under 2 minutes," (2) add teammate + spend limit, (3) "Issue Instant Card" click → generate animation → live virtual card reveal, (4) card detail with Apple/Google Wallet buttons + "Notify teammate" action, (5) dashboard card status moving from "Active — awaiting first swipe" to a "🎉 First swipe" celebration state.
+- **Tool used:** Lovable 
+- **Shareable link:** [FlowCard](https://flowcard-instant-issue.lovable.app/)
 
 ## Show & Swap read
 
