@@ -6,7 +6,7 @@
 
 _Where does it look like a toy? Where would a VP of Design refuse to open it? Where does the logic feel fake? Pick the one spot that costs you the most credibility._
 
-Adoption pattern and Top activation blockers show the same information.
+No clear steps to follow after customer onboarding on the card program.
 
 ## Upgrade paths run (pick two)
 
@@ -17,16 +17,16 @@ Adoption pattern and Top activation blockers show the same information.
 
 ## v2 build
 
-- **Shareable link:** https://flowcard-dashboard.replit.app/
-- **Before → after:** A Dashboard with generic risk information  into a Dashboard with more specific data and interaction.
+- **Shareable link:** https://flowcard-instant-issue.lovable.app/
+- **Before → after:** Unclear Card Onboarding Processing
 - **What each pass changed:**
-  - Add Interactivity: Made the at-risk accounts list filterable by risk level with an account detail side panel.
-  - Surgical Refinement: Turned the Top activation blockers widget into a risk-ranked blocker view with company counts.
+  - Add Interactivity: Make the card selection visible between Physical and Virtual. When I click each option, open modal  showing each card type benefit and availability.
+  - Surgical Refinement: Focus only on No clear steps to follow after customer onboarding on the card program.. Change the steps collapsible steps to a clear path progress bar. In each step of the process, the details of the task are explained by a short and clear copy.  It’s a basic onboarding UI design without images or visual additions, and it works well. Add the user's name and an option to reset the prototype. Leave the rest of the functionality as it is.
 
 ## Show & Swap read, round 2
 
 _A NEW partner, a blind read. What landed differently from v1?_
 
-- **Feels like a real product, or a mockup?** _____
-- **Where interactivity fell short:** _____
-- **Would they show it to a VP?** _____
+- **Feels like a real product, or a mockup?** It improved but it is still lacking process structure. Still a more dedicated visual mockup.
+- **Where interactivity fell short:** The flow allowed to send invitations without selecting the card type. There was no default card policy set and it allowed seeing first swipe from team even when the policy was not set.
+- **Would they show it to a VP?** No, this prototype still does not provide an answer to the question why we are getting lower retention rates.
