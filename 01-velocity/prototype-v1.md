@@ -20,8 +20,8 @@ _Tick the scenario you built in Lab 1 (the same one you selected in the lab guid
 ## The build
 
 - **What I built:** FlowCard - Spend intelligence, a Portfolio Health dashboard
-- **Tool used:** Replit
-- **Shareable link:** https://FlowCard-Dashboard.replit.app
+- **Tool used:** Lovable
+- **Shareable link:** https://flowcard-instant-issue.lovable.app
 
 ## Show & Swap read
 
@@ -30,4 +30,4 @@ _What a partner understood from your build with no verbal setup, their reaction 
 - **What they understood immediately:** It has something to do with finance or banking
 - **What confused them:** Unclear about what card type or finance product we are getting into
 - **The assumption they thought you were testing:** I think it was testing signing up people for a banking product
-- **The gap between what you intended and what they read:** At the beginning the prototype was trying to solve one possible cause of customer churning. That is why my teammate understood the banking product onboarding scenario. But the final result was a dashboard listing the points where customers are stalling which probably are the reasons for churning.
+- **The gap between what you intended and what they read:** The flow was assumed correctly but not the goal. I wanted to test that physical card vs virtual card issuing was the main reason for the FlowCard Admin was loosing interest, but also unclear onboarding instructions and help was another plausible reason.
