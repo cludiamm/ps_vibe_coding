@@ -17,11 +17,11 @@ No clear steps to follow after customer onboarding on the card program.
 
 ## v2 build
 
-- **Shareable link:** https://flowcard-instant-issue.lovable.app/
-- **Before → after:** Unclear Card Onboarding Processing
+- **Shareable link:** [https://flow-card.replit.app/](https://flow-card.replit.app/)
+- **Before → after:** Unclear Card Onboarding Processing → Step Guided Onboarding Process
 - **What each pass changed:**
   - Add Interactivity: Make the card selection visible between Physical and Virtual. When I click each option, open modal  showing each card type benefit and availability.
-  - Surgical Refinement: Focus only on No clear steps to follow after customer onboarding on the card program.. Change the steps collapsible steps to a clear path progress bar. In each step of the process, the details of the task are explained by a short and clear copy.  It’s a basic onboarding UI design without images or visual additions, and it works well. Add the user's name and an option to reset the prototype. Leave the rest of the functionality as it is.
+  - Surgical Refinement: Focus only on No clear steps to follow after customer onboarding on the card program.. Change the steps collapsible steps to a clear path progress bar. In each step of the process, the details of the task are explained by a short and clear copy.  It’s a basic onboarding UI design without images or visual additions, and it works well. Add an option to reset the prototype. Leave the rest of the functionality as it is.
 
 ## Show & Swap read, round 2
 
