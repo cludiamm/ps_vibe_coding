@@ -19,9 +19,9 @@ _Tick the scenario you built in Lab 1 (the same one you selected in the lab guid
 
 ## The build
 
-- **What I built:** FlowCard - Spend intelligence, a Portfolio Health dashboard
-- **Tool used:** Lovable
-- **Shareable link:** https://flowcard-instant-issue.lovable.app
+- **What I built:** FlowCard - Business Dashboard 
+- **Tool used:** Replit
+- **Shareable link:** [https://flow-card.replit.app/](https://flow-card.replit.app/)
 
 ## Show & Swap read
 
