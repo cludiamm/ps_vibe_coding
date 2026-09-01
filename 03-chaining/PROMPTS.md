@@ -42,11 +42,11 @@ Don't change anything else in the project or touch the underlying logic.
 
 ## Reusable techniques learned
 
-- _____
-- _____
+- Providing exact error messages for specific scenarios helped refining the flow.
 
 ## What broke (and the fix)
 
 _Where a single mega-prompt failed and chaining fixed it._
 
-_____
+Step 02 was activated only when Virtual Card was selected. Repromoted and it fix it. 
+Prompting the change from a widget to a screen did not work. 
