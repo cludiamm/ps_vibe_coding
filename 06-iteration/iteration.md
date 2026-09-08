@@ -26,7 +26,7 @@ _Analytics snapshot: visitors 20; page views 63; views per visit 5; duration 3m 
 
 | Change | Hypothesis | Result |
 |---|---|---|
-| _____ | _____ | _____ |
+| Make the next action and sequence impossible to miss | The next step is not clear | Now a list of clear identified steps is visible |
 
 ## Peer feedback
 
@@ -36,14 +36,14 @@ Friction: The notification bar seems very small
 
 ## The recommendation
 
-**Decision:** ☐ Go  ☐ Iterate  ☐ Kill
+**Decision:** ☑ Go  ☐ Iterate  ☐ Kill
 
 _The evidence that justifies the call:_
 
-_____
+When the user finishes each step, there is a clear next step to follow to complete activation.
 
 ## Final showcase
 
-- **Demo link:** _____
-- **The one-sentence story:** _____
-- **Where it landed on the Confidence Line (M2 → now):** _____
+- **Demo link:** https://flow-card.replit.app/
+- **The one-sentence story:** FlowCard is a post-onboarding activation console that guides finance admins from card setup to teammate invitations, spending controls, and the team’s first purchase.
+- **Where it landed on the Confidence Line (M2 → now):** Medium confidence in the problem, low-to-medium confidence in the solution’s activation impact.
